@@ -28,3 +28,4 @@ cd application
 git clone https://github.com/maur1th/simple-php-app
 cd simple-php-app
 sudo docker-compose up -d
+cd ..
